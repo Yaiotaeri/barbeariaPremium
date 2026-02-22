@@ -5,8 +5,8 @@ const agendarHorario = document.getElementById("agendarHorario");
 let i = 0;
 const images = [
   "./assets/img/oneImage.jpg",
-  "./assets/img/twoImg.jpg",
-  "./assets/img/treeImg.jpg"
+  "./assets/img/twoimg.jpg",
+  "./assets/img/treeimg.jpg"
 ];
 
 setInterval(()=>{
